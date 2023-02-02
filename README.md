@@ -1,2 +1,2 @@
 # YetgenPython2
-Bu repo yetgen python için açılmıştır.
+Bu repo bogoaco tarafından yetgen python için açılmıştır.
