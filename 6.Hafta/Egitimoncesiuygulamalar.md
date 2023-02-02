@@ -1,1 +1,0 @@
-Eğitim öncesi uygulamaları
