@@ -1,0 +1,1 @@
+Eğitim sonrası uygulamaları
