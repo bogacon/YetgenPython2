@@ -1,0 +1,22 @@
+--Zayif--
+Ali Veli: 98 yaşında Kilo:34 Boy:150
+Yasemin Gül: 23 yaşında Kilo:42 Boy:167
+
+--Normal_Kilolu--
+Hayri Bey: 87 yaşında Kilo:73 Boy:172
+Tarık Yeni: 49 yaşında Kilo:74 Boy:180
+Merve Nur: 19 yaşında Kilo:54 Boy:156
+Ece Fırat: 23 yaşında Kilo:53 Boy:165
+
+--Fazla_Kilolu--
+Boğaç Ond: 25 yaşında Kilo:85 Boy:178
+Rıfkı Hıdır: 34 yaşında Kilo:83 Boy:173
+Berk Kayı: 24 yaşında Kilo:94 Boy:179
+
+--Obez--
+Ayşe Fatma: 45 yaşında Kilo:90 Boy:165
+Yasin Lal: 78 yaşında Kilo:95 Boy:160
+
+--Morbez--
+Ayşe Kalburüstü: 34 yaşında Kilo:110 Boy:150
+
